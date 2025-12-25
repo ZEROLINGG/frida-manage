@@ -34,7 +34,7 @@ Check out the [troubleshooting guide](TROUBLESHOOTING.md)
 
 ```bash
 uv sync
-uv run python3 main.py
+uv run python main.py
 ```
 
 - Release ZIP will be under `/build`
